@@ -1,6 +1,6 @@
 # Documentazione del bot Discord
 ## Introduzione
-Questa documentazione fornisce una panoramica delle funzionalità, della struttura e dell'utilizzo del bot Discord sviluppato per la gestione del server e l'interazione con gli utenti.
+Questa documentazione fornisce una panoramica delle funzionalità, della struttura e dell'utilizzo del bot Discord sviluppato per la gestione del server e le interazioni con gli utenti.
 
 ## Indice
 1. [Introduzione](#introduzione)
@@ -14,7 +14,7 @@ Questa documentazione fornisce una panoramica delle funzionalità, della struttu
 
 ## Installazione
 1. Clonare il repository sul computer locale.
-2. Installare le dipendenze usando `pip install -r requirements.txt`.
+2. Installare i requisiti usando `pip install -r requirements.txt`.
 3. Creare un file `.env` nella directory principale e aggiungere il token del bot Discord come `DISCORD_TOKEN=token`.
 
 ## Uso
