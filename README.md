@@ -3,19 +3,19 @@
 Questa documentazione fornisce una panoramica delle funzionalità, della struttura e dell'utilizzo del bot Discord sviluppato per la gestione del server e l'interazione con gli utenti.
 
 ## Indice
-[Introduzione](#introduzione)
-[Installazione](#installazione)
-[Uso](#uso)
-[Gestione degli eventi](#event-handling)
-[Comandi](#comandi)
-[Utilità](#utilità)
-[Contributo](#contributo)
-[Licenza](#licenza)
+1. [Introduzione](#introduzione)
+2. [Installazione](#installazione)
+3. [Uso](#uso)
+4. [Gestione degli eventi](#event-handling)
+5. [Comandi](#comandi)
+6. [Utilità](#utilità)
+7. [Contributo](#contributo)
+8. [Licenza](#licenza)
 
 ## Installazione
-Clonare il repository sul computer locale.
-Installare le dipendenze usando `pip install -r requirements.txt`.
-Creare un file `.env` nella directory principale e aggiungere il token del bot Discord come `DISCORD_TOKEN=token`.
+1. Clonare il repository sul computer locale.
+2. Installare le dipendenze usando `pip install -r requirements.txt`.
+3. Creare un file `.env` nella directory principale e aggiungere il token del bot Discord come `DISCORD_TOKEN=token`.
 
 ## Uso
 1. Eseguire il bot eseguendo `main.py`.
