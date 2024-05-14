@@ -6,7 +6,7 @@ Questa documentazione fornisce una panoramica delle funzionalità, della struttu
 1. [Introduzione](#introduzione)
 2. [Installazione](#installazione)
 3. [Uso](#uso)
-4. [Gestione degli eventi](#Gestione)
+4. [Gestione degli eventi](#Gestione-degli-eventi)
 5. [Comandi](#comandi)
 6. [Utilità](#utilità)
 7. [Contributo](#contributo)
